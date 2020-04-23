@@ -1,4 +1,4 @@
-package com.grokonez.jwtauthentication.Message;
+package com.grokonez.jwtauthentication;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;

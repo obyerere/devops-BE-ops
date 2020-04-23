@@ -1,10 +1,8 @@
-package com.grokonez.jwtauthentication.Message;
+package com.grokonez.jwtauthentication;
 
-import com.google.gson.JsonObject;
 import com.grokonez.jwtauthentication.message.request.SignUpForm;
 import org.apache.http.HttpStatus;
 import org.json.JSONException;
-import org.json.JSONObject;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

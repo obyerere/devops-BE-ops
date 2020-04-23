@@ -1,4 +1,4 @@
-package com.grokonez.jwtauthentication.Message;
+package com.grokonez.jwtauthentication;
 
 import com.grokonez.jwtauthentication.message.request.SignUpForm;
 import org.json.JSONException;

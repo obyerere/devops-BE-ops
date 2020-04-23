@@ -1,4 +1,4 @@
-package com.grokonez.jwtauthentication.Message;
+package com.grokonez.jwtauthentication;
 
 public class ApiResponseTest {
     private int status;
