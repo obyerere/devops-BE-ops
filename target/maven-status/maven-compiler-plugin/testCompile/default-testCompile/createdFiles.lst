@@ -1,1 +1,6 @@
-com\grokonez\jwtauthentication\SpringBootJwtAuthenticationApplicationTests.class
+com\grokonez\jwtauthentication\Message\BaseTest.class
+com\grokonez\jwtauthentication\Message\ResponseMessageTest.class
+com\grokonez\jwtauthentication\Message\AuthResrAPITest.class
+com\grokonez\jwtauthentication\Message\SignupControllerInvalid.class
+com\grokonez\jwtauthentication\Message\SignupTestController.class
+com\grokonez\jwtauthentication\Message\ApiResponseTest.class
