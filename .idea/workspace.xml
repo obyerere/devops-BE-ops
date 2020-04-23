@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38c7b41d-6c18-4677-b0b2-9ff59e45329e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SpringBootJwtAuthentication" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XV63X5KitkFCveXrk2eOzS45c3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/controller" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.grokonez.jwtauthentication.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jamun\OneDrive\Documents\Busyqa_CoOp\feb62020\SpringBootJwtAuthentication\src\main\java\com\grokonez\jwtauthentication\controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jamun\OneDrive\Documents\Busyqa_CoOp\feb62020\SpringBootJwtAuthentication\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SpringBootJwtAuthenticationApplication">
+    <configuration name="SpringBootJwtAuthenticationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.grokonez.jwtauthentication.SpringBootJwtAuthenticationApplication" />
+      <module name="SpringBootJwtAuthentication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.grokonez.jwtauthentication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthResrAPITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootJwtAuthentication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.grokonez.jwtauthentication.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.grokonez.jwtauthentication.test" />
+      <option name="MAIN_CLASS_NAME" value="com.grokonez.jwtauthentication.test.AuthResrAPITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignupControllerInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootJwtAuthentication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.grokonez.jwtauthentication.test.Message.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.grokonez.jwtauthentication.test.Message" />
+      <option name="MAIN_CLASS_NAME" value="com.grokonez.jwtauthentication.test.Message.SignupControllerInvalid" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignupTestController" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootJwtAuthentication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.grokonez.jwtauthentication.test.Message.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.grokonez.jwtauthentication.test.Message" />
+      <option name="MAIN_CLASS_NAME" value="com.grokonez.jwtauthentication.test.Message.SignupTestController" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignupTestController.testSignupAction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootJwtAuthentication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.grokonez.jwtauthentication.test.Message.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.grokonez.jwtauthentication.test.Message" />
+      <option name="MAIN_CLASS_NAME" value="com.grokonez.jwtauthentication.test.Message.SignupTestController" />
+      <option name="METHOD_NAME" value="testSignupAction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootJwtAuthenticationApplication" />
+        <item itemvalue="JUnit.SignupControllerInvalid" />
+        <item itemvalue="JUnit.SignupTestController" />
+        <item itemvalue="JUnit.SignupTestController.testSignupAction" />
+        <item itemvalue="JUnit.AuthResrAPITest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38c7b41d-6c18-4677-b0b2-9ff59e45329e" name="Default Changelist" comment="" />
+      <created>1581118716099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581118716099</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="866" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581345852151">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581345852151" />
+    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1581343614757">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1581343614757" />
+    <state x="695" y="409" width="530" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581343364875">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="695" y="409" width="530" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1581343364875" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581222499637">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581222499637" />
+    <state x="740" y="216" key="FileChooserDialogImpl" timestamp="1587604316840">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="216" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1587604316840" />
+    <state width="1853" height="312" key="GridCell.Tab.0.bottom" timestamp="1587604249478">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1853" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587604249478" />
+    <state width="1853" height="312" key="GridCell.Tab.0.center" timestamp="1587604249477">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1853" height="312" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587604249477" />
+    <state width="1853" height="312" key="GridCell.Tab.0.left" timestamp="1587604249477">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1853" height="312" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587604249477" />
+    <state width="1853" height="312" key="GridCell.Tab.0.right" timestamp="1587604249478">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1853" height="312" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587604249478" />
+    <state width="1877" height="350" key="GridCell.Tab.1.bottom" timestamp="1581435619317">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1581435619317" />
+    <state width="1877" height="350" key="GridCell.Tab.1.center" timestamp="1581435619317">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1581435619317" />
+    <state width="1877" height="350" key="GridCell.Tab.1.left" timestamp="1581435619316">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1581435619316" />
+    <state width="1877" height="350" key="GridCell.Tab.1.right" timestamp="1581435619317">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1581435619317" />
+    <state x="483" y="180" key="Maven.ArtifactSearchDialog" timestamp="1581263468423">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="483" y="180" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581263468423" />
+    <state x="594" y="221" key="NewModule_or_Project.wizard" timestamp="1581208665226">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="594" y="221" key="NewModule_or_Project.wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1581208665225" />
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1581131786150">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581131786150" />
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581223551360">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581223551360" />
+    <state x="1094" y="32" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581213638015">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1094" y="32" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581213638015" />
+    <state x="637" y="254" width="646" height="542" key="find.popup" timestamp="1581226390321">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="637" y="254" width="646" height="542" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1581226390321" />
+    <state x="342" y="114" key="new project wizard" timestamp="1581348949195">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="114" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1581348949195" />
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1581224472205">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1581224472205" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/controller/RegisteredUser.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/grokonez/jwtauthentication/controller/AuthRestAPIsTest.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/test/AuthResrAPITest.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/controller/AuthRestAPIs.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/controller/AuthRestAPIs.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/test/AuthResrAPITest.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/test/AuthResrAPITest.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/test/AuthResrAPITest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/test/AuthResrAPITest.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/test/Message/SignupControllerInvalid.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/test/Message/SignupTestController.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/test/Message/SignupControllerInvalid.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpringBootJwtAuthentication$SpringBootJwtAuthenticationApplication.ic" NAME="SpringBootJwtAuthenticationApplication Coverage Results" MODIFIED="1581345882640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.grokonez.jwtauthentication.*</FILTER>
+    </SUITE>
+  </component>
+</project>
