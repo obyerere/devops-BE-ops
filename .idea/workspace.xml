@@ -21,10 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="38c7b41d-6c18-4677-b0b2-9ff59e45329e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/roles.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/roles.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-unit-test-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-unit-test-0.0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.grokonez.jwtauthentication.TestBootUp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.grokonez.jwtauthentication.TestBootUp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.grokonez.jwtauthentication.TestBootUp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.grokonez.jwtauthentication.TestBootUp.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +78,11 @@
       <recent name="C:\Users\Administrator\Documents\demo-be\src" />
       <recent name="C:\Users\jamun\OneDrive\Documents\Busyqa_CoOp\feb62020\SpringBootJwtAuthentication\src\main\java" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn pmd:pmd" />
+    </option>
   </component>
   <component name="RunManager" selected="Application.SpringBootJwtAuthenticationApplication">
     <configuration name="SpringBootJwtAuthenticationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -215,45 +221,45 @@
     </state>
     <state x="740" y="214" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587645849206" />
     <state x="740" y="216" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1587604316840" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1587650875362">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1587657270858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875362" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587657270858" />
     <state width="1853" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587604249478" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1587650875361">
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1587657270858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875361" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587657270858" />
     <state width="1853" height="312" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587604249477" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1587650875361">
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1587657270858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875361" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587657270858" />
     <state width="1853" height="312" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587604249477" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1587650875362">
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1587657270858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875362" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587657270858" />
     <state width="1853" height="312" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587604249478" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587650875211">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587651155063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875211" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587651155063" />
     <state width="1877" height="350" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1581435619317" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1587650875211">
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1587651155062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875211" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587651155062" />
     <state width="1877" height="350" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1581435619317" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1587650875211">
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1587651155062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875211" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587651155062" />
     <state width="1877" height="350" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1581435619316" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1587650875211">
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1587651155063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875211" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587651155063" />
     <state width="1877" height="350" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1581435619317" />
     <state x="483" y="178" key="Maven.ArtifactSearchDialog" timestamp="1587645989264">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -285,6 +291,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="342" y="114" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1581348949195" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1587657270839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587657270839" />
     <state x="623" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1581224472205">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -305,7 +315,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/grokonez/jwtauthentication/AuthResrAPITest.java</url>
-          <line>77</line>
+          <line>76</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -320,32 +330,32 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/grokonez/jwtauthentication/AuthResrAPITest.java</url>
-          <line>74</line>
+          <line>73</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/grokonez/jwtauthentication/AuthResrAPITest.java</url>
-          <line>114</line>
+          <line>113</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/grokonez/jwtauthentication/AuthResrAPITest.java</url>
-          <line>25</line>
+          <line>24</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/grokonez/jwtauthentication/AuthResrAPITest.java</url>
-          <line>57</line>
+          <line>56</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/grokonez/jwtauthentication/SignupControllerInvalid.java</url>
-          <line>110</line>
+          <line>109</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/grokonez/jwtauthentication/SignupTestController.java</url>
-          <line>92</line>
+          <line>91</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

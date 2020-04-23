@@ -132,8 +132,35 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>2.22.1</version>
 			</plugin>
+			<plugin>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-pmd-plugin</artifactId>
+			<configuration>
+				<failOnViolation>true</failOnViolation> <!-- this is actually true by default, but can be disabled -->
+				<printFailingErrors>true</printFailingErrors>
+			</configuration>
+			<executions>
+				<execution>
+					<goals>
+						<goal>check</goal>
+					</goals>
+				</execution>
+			</executions>
+		</plugin>
 		</plugins>
 	</build>
 
+	<reporting>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-pmd-plugin</artifactId>
+				<configuration>
+					<failOnViolation>false</failOnViolation> <!-- this is actually true by default, but can be disabled -->
+					<printFailingErrors>true</printFailingErrors>
+				</configuration>
+			</plugin>
+		</plugins>
+	</reporting>
 
 </project>
