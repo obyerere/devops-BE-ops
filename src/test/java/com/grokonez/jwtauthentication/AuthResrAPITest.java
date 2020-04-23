@@ -16,7 +16,6 @@ public class AuthResrAPITest extends BaseTest {
 
   @Before
   public void restoredb() throws IOException, InterruptedException {
-    restoreDB("testdb", "root", "mysql", "C:\\freshdb.sql");
   }
 
 

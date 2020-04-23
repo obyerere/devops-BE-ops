@@ -98,7 +98,6 @@ public class SignupControllerInvalid {
 
     @Before
     public void restoredb() throws IOException, InterruptedException {
-        BaseTest.restoreDB("testdb", "root", "mysql", "C:\\freshdb.sql");
     }
 
     @Test
