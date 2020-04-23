@@ -20,24 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38c7b41d-6c18-4677-b0b2-9ff59e45329e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/grokonez/jwtauthentication/TestBootUp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/grokonez/jwtauthentication/Message/ApiResponseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/grokonez/jwtauthentication/Message/AuthResrAPITest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/grokonez/jwtauthentication/Message/BaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/grokonez/jwtauthentication/Message/ResponseMessageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/grokonez/jwtauthentication/Message/SignupControllerInvalid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/grokonez/jwtauthentication/Message/SignupTestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-unit-test.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-unit-test.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/grokonez/jwtauthentication/Message/ApiResponseTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/grokonez/jwtauthentication/Message/AuthResrAPITest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/grokonez/jwtauthentication/Message/BaseTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/grokonez/jwtauthentication/Message/ResponseMessageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/grokonez/jwtauthentication/Message/SignupControllerInvalid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/grokonez/jwtauthentication/Message/SignupTestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/roles.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roles.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +78,7 @@
       <recent name="C:\Users\jamun\OneDrive\Documents\Busyqa_CoOp\feb62020\SpringBootJwtAuthentication\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SignupTestController.validtSignupAction">
+  <component name="RunManager" selected="Application.SpringBootJwtAuthenticationApplication">
     <configuration name="SpringBootJwtAuthenticationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.grokonez.jwtauthentication.SpringBootJwtAuthenticationApplication" />
       <module name="SpringBootJwtAuthentication" />
@@ -169,8 +156,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SignupTestController.validtSignupAction" />
         <item itemvalue="Application.SpringBootJwtAuthenticationApplication" />
+        <item itemvalue="JUnit.SignupTestController.validtSignupAction" />
         <item itemvalue="JUnit.SignupControllerInvalid" />
         <item itemvalue="JUnit.SignupTestController" />
         <item itemvalue="JUnit.SignupTestController.testSignupAction" />
@@ -228,45 +215,45 @@
     </state>
     <state x="740" y="214" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587645849206" />
     <state x="740" y="216" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1587604316840" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1587647854933">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1587650875362">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587647854933" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875362" />
     <state width="1853" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587604249478" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1587647854933">
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1587650875361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587647854933" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875361" />
     <state width="1853" height="312" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587604249477" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1587647854933">
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1587650875361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587647854933" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875361" />
     <state width="1853" height="312" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587604249477" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1587647854933">
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1587650875362">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587647854933" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875362" />
     <state width="1853" height="312" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587604249478" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587646806545">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587650875211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587646806545" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875211" />
     <state width="1877" height="350" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1581435619317" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1587646806545">
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1587650875211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587646806545" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875211" />
     <state width="1877" height="350" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1581435619317" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1587646806545">
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1587650875211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587646806545" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875211" />
     <state width="1877" height="350" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1581435619316" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1587646806545">
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1587650875211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587646806545" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587650875211" />
     <state width="1877" height="350" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1581435619317" />
     <state x="483" y="178" key="Maven.ArtifactSearchDialog" timestamp="1587645989264">
       <screen x="0" y="0" width="1920" height="1040" />
