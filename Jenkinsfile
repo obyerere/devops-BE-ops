@@ -10,7 +10,7 @@ node {
 	
 	stage('compile'){
     withMaven(maven: 'Maven') {
-    sh 'mvn compile' // using pipeline syntax
+    sh 'mvn compile' // using pipeline syntax and after installing the mvn plugin
 		}	
 	}
 	
