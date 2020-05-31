@@ -9,14 +9,14 @@ node {
 	}
 	
 	stage('compile'){
-    withMaven(maven: 'Maven') {
+    withMaven(maven: 'maven') {
     sh 'mvn compile' // using pipeline syntax and after installing the mvn plugin
 		}	
 	}
 	
 	stage('code review'){
 	try{
-    withMaven(maven: 'Maven') {
+    withMaven(maven: 'maven') {
     sh 'mvn pmd:pmd' 
 			}
 		}finally {
@@ -26,7 +26,7 @@ node {
 
 	stage('Test'){
 	try{
-    withMaven(maven: 'Maven') {
+    withMaven(maven: 'maven') {
     sh 'mvn test' 
 			}
 		}finally {
@@ -36,7 +36,7 @@ node {
 	
 	stage('code coverage'){
 	try{
-    withMaven(maven: 'Maven') {
+    withMaven(maven: 'maven') {
     sh 'mvn cobertura:cobertura -Dcobertura.report.format=xml' 
 			}
 		}finally{
@@ -46,7 +46,7 @@ node {
 	
 	stage('package'){
 	try{
-    withMaven(maven: 'Maven') {
+    withMaven(maven: 'maven') {
     sh 'mvn package' 
 			}
 		}finally{
