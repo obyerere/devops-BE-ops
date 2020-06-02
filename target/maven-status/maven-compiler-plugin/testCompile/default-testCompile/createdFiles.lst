@@ -1,7 +1,7 @@
-com\grokonez\jwtauthentication\ResponseMessageTest.class
-com\grokonez\jwtauthentication\BaseTest.class
-com\grokonez\jwtauthentication\SignupTestController.class
-com\grokonez\jwtauthentication\AuthResrAPITest.class
-com\grokonez\jwtauthentication\SignupControllerInvalid.class
-com\grokonez\jwtauthentication\ApiResponseTest.class
-com\grokonez\jwtauthentication\TestBootUp.class
+com/grokonez/jwtauthentication/ResponseMessageTest.class
+com/grokonez/jwtauthentication/TestBootUp.class
+com/grokonez/jwtauthentication/ApiResponseTest.class
+com/grokonez/jwtauthentication/SignupControllerInvalid.class
+com/grokonez/jwtauthentication/BaseTest.class
+com/grokonez/jwtauthentication/SignupTestController.class
+com/grokonez/jwtauthentication/AuthResrAPITest.class
