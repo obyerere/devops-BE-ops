@@ -1,0 +1,28 @@
+version: '3'
+
+services:
+  demo-standalone:
+    restart: always
+    container_name: demo-standalone
+    image: mysql:5.6
+    environment:
+      MYSQL_DATABASE: testdb
+      MYSQL_ROOT_PASSWORD: B1m3r3r3!
+      MYSQL_ROOT_HOST: '%'
+    volumes:
+      - /opt/datadir:/var/libmysql
+    ports:
+      - "3306:3306"
+
+  demo-be:
+    restart: on-failure
+    container_name: tea-be
+    image: obyerere1/tea-be:v0.0.1
+    expose:
+      - "8086"
+    ports:
+      - 8086:8086
+    environment:
+      WAIT_HOSTS: mysql:3306
+    depends_on:
+      - demo-standalone
