@@ -8,13 +8,13 @@ node {
 	git 'https://github.com/obyerere/TeaCup-BE.git'
 	}
 	
-	stage('compile'){
+	stage('MVN compile'){
     withMaven(maven: 'maven') {
     sh 'mvn compile' // using pipeline syntax
 		}	
 	}
 	
-	stage('code review'){
+	stage('MVN code review'){
 	try{
     withMaven(maven: 'maven') {
     sh 'mvn pmd:pmd' 
@@ -24,7 +24,7 @@ node {
 		}
 	}
 
-	stage('Test'){
+	stage('MVN Test'){
 	try{
     withMaven(maven: 'maven') {
     sh 'mvn test' 
@@ -34,7 +34,7 @@ node {
 		}
 	}
 	
-	stage('code coverage'){
+	stage('MVN coverage'){
 	try{
     withMaven(maven: 'maven') {
     sh 'mvn cobertura:cobertura -Dcobertura.report.format=xml' 
@@ -44,7 +44,7 @@ node {
 		}	
 	}
 	
-	stage('package'){
+	stage('MVN package'){
 	try{
     withMaven(maven: 'maven') {
     sh 'mvn package' 
