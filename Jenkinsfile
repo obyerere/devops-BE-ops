@@ -6,7 +6,7 @@ pipeline {
  }
  agent any
  stages {
-  stage('Cloning Git') {
+  stage('Git Checkout') {
    steps {
     git 'https://github.com/obyerere/TeaCup-BE.git'
    }
@@ -23,7 +23,7 @@ pipeline {
   stage('Building image') {
    steps{
     script {
-     dockerImage = docker.build registry + ":3.5"
+     dockerImage = docker.build registry + ":v0.2"
     }
    }
   }
@@ -38,7 +38,7 @@ pipeline {
   }
   stage('Remove Unused docker image') {
    steps{
-    sh "docker rmi $registry:3.5"
+    sh "docker rmi $registry:v0.2"
    }
   }
  }
